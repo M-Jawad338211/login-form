@@ -1,12 +1,22 @@
-<<<<<<< HEAD
-# React + Vite
+# React Authentication Form
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a simple React application that provides user authentication functionality, allowing users to either log in or sign up.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-=======
-# login-form
->>>>>>> c8a5fb307c85ec1f9a491bd3ede14d260d5ea747
+- **Login Form**: Users can enter their username and password to log in.
+- **Signup Form**: New users can create an account by providing a username and password, along with a confirmation password.
+
+## Getting Started
+
+### Prerequisites
+
+- Node.js installed on your machine.
+- A package manager like npm or yarn.
+
+### Installation
+
+1. Clone the repository:
+   ```bash
+   git clone <repository-url>
+   cd <repository-folder>
